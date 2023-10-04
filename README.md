@@ -1,18 +1,21 @@
+# Api Sistema Bancario
 
-
-Este projeto foi desenvolvido como desafio do Módulo 2 do Curso Desenvolvimento de Software com foco em BackEnd pela Cubos Academy e permite colocar em prática a criação de um sistema bancário.
+### Este projeto foi desenvolvido como desafio do Módulo 2 do Curso de desenvolvimento de Software com foco em Backend pela Cubos Academy e permite colocar em prática a criação de uma Api de um sistema bancário
 
 ### Como Usar
 
 - [ ] Faça o fork desse repositório para o seu GitHub
 - [ ] Clone o seu repositório em sua máquina
-      - Abra o terminal
-      - git Clone < >
-      - Abra o arquivo do projeto no VSCode
-      - Instale a dependencias EXPRESS através do comando npm install express
-      - Instale a dependencia NODEMON através do comando npm install -D nodemon   
+* Abra o terminal
+  
+  ```bash
+  git clone https://github.com/debora-silva1/api-sistema-bancario/
+  ```
+* Abra o arquivo do projeto no VSCode
+* Instale a dependencias EXPRESS através do comando `npm install express`
+* Instale a dependencia NODEMON através do comando `npm install -D nodemon`   
 - [ ] Desenvolva seu projeto, fazendo commits a cada alteração e push
- 	- Execute o projeto pelo comando npm run dev
+* Execute o projeto pelo comando `npm run dev`
     
 ## Descrição do desafio
 
